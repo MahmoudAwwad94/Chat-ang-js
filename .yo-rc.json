@@ -1,0 +1,30 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "Mahmoud Awwad",
+        "email": "mahmoud@clearmove.io"
+      },
+      "libraryName": {
+        "original": "chat-ang-js",
+        "camelized": "chatAngJs",
+        "dasherized": "chat-ang-js",
+        "slugified": "chat-ang-js",
+        "parts": [
+          "chat",
+          "ang",
+          "js"
+        ]
+      },
+      "includeModuleDirectives": true,
+      "includeModuleFilters": true,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": true,
+      "includeAngularModuleCookies": true,
+      "includeAngularModuleSanitize": true,
+      "librarySrcDirectory": "src/chat-ang-js",
+      "libraryUnitTestDirectory": "test/unit/chat-ang-js",
+      "libraryUnitE2eDirectory": "test/e2e/chat-ang-js"
+    }
+  }
+}
